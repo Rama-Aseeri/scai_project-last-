@@ -1,0 +1,5 @@
+flask==2.3.2
+moviepy==1.0.3
+openai-whisper==20231106
+torch==2.0.1
+ffmpeg-python==0.2.0
